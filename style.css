@@ -9,6 +9,7 @@
     background-color: #195D84;
     display: flex;
     flex-direction: column;
+    justify-content: center;
 
 }
 
@@ -18,5 +19,6 @@ img {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    margin-left: 35%;
 
 }
