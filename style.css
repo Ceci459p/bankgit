@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.boxes{
+    margin: 5px;
+    padding: 20px;
+    background-color: #195D84;
+    display: flex;
+    flex-direction: column;
+
+}
+
+img {
+    height: 50px;
+    width: 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
